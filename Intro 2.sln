@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grøn-Gul", "Grøn\Grøn-Gul.csproj", "{FD373E6F-68F9-4B2D-9706-C7350741EECF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grøn", "Grøn\Grøn.csproj", "{FD373E6F-68F9-4B2D-9706-C7350741EECF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rød", "Rød\Rød.csproj", "{16FB78D4-F15A-4E5D-B115-FE1FAB83E2C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gul", "Gul\Gul.csproj", "{DE580F8E-C191-49FD-834C-83A700C280E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{16FB78D4-F15A-4E5D-B115-FE1FAB83E2C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16FB78D4-F15A-4E5D-B115-FE1FAB83E2C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16FB78D4-F15A-4E5D-B115-FE1FAB83E2C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE580F8E-C191-49FD-834C-83A700C280E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE580F8E-C191-49FD-834C-83A700C280E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE580F8E-C191-49FD-834C-83A700C280E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE580F8E-C191-49FD-834C-83A700C280E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
